@@ -48,7 +48,7 @@ The lab will run on a private virtual network to keep testing separate from norm
 | ------------------ | ------------------ |
 |    Host OS         | Windows 11         |
 |    Host RAM        | 16 GB              |
-|    Processor       | Intel Core i5 12g  |
+|    Processor       | Intel Core i5 8g  |
 |    Hypervisor      | VirtualBox 7.2.20  |
 |    Security OS     | Kali Linux 2026.2  |
 |    Kali RAM        | 2048 MB            |
