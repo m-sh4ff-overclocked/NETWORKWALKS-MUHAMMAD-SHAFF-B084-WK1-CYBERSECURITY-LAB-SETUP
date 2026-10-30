@@ -37,7 +37,8 @@ The lab will run on a private virtual network to keep testing separate from norm
 
 ## ARCHITECTURE:
 
-<img width="2558" height="1383" alt="image" src="https://github.com/user-attachments/assets/ac61e0e0-e3c3-43e5-93bf-f5f70495820a" />
+<img width="1366" height="726" alt="Screenshot Desktop" src="https://github.com/user-attachments/assets/cb3f0179-41fa-4761-96c4-5f542843f787" />
+
 
 ---
 
@@ -87,7 +88,8 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-<img width="2558" height="1385" alt="image" src="https://github.com/user-attachments/assets/146c4a1f-5367-482c-86f9-b51d1130c993" />
+<img width="1365" height="724" alt="image" src="https://github.com/user-attachments/assets/8ff343bb-32ab-4a23-89d6-eaa05d3e04a2" />
+
 
 
 A NAT Network was chosen so that multiple virtual machines connected to the same NAT Network can communicate with each other.
@@ -122,7 +124,8 @@ Gateway: 10.0.0.1
 DNS: 8.8.8.8
 ```
 
-<img width="826" height="628" alt="image" src="https://github.com/user-attachments/assets/3a1da3fd-b37c-462a-8637-ae248d105a4f" />
+<img width="695" height="547" alt="Screenshot Wired Connection" src="https://github.com/user-attachments/assets/2d70fe8d-ed12-4e8d-b294-6cbce622257f" />
+
 
 
 ## Step 6: VM Snapshot Creation
@@ -134,7 +137,8 @@ Snapshot name:
 KALI
 ```
 
-<img width="904" height="563" alt="image" src="https://github.com/user-attachments/assets/a1ab9c9f-f777-45fa-b2aa-e7df9d021820" />
+<img width="342" height="353" alt="Screenshot snapshot " src="https://github.com/user-attachments/assets/bcb1a6de-6489-4fd4-aa13-04a837993449" />
+
 
 
 ---
